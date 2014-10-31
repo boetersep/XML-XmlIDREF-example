@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addressbook>
+	<address id="br">
+		<street>Broadway</street>
+		<houseNo>1</houseNo>
+		<city>New York</city>
+	</address>
+	<address id="li">
+		<street>Lijnbaan</street>
+		<houseNo>1</houseNo>
+		<city>Rotterdam</city>
+	</address>
+	<person address="br">
+		<name>Erik</name>
+	</person>
+	<person address="li">
+		<name>Bart</name>
+	</person>
+</addressbook>
